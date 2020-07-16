@@ -33,3 +33,7 @@ Both the notebook have the relevant data and steps already in-place to be run as
 TODOs
 - Creating a Flask application to use the reccomender system created using Content Based Filtering 
 - Create a Collaborative Filtering Fecommender Systems
+
+Contributors: 
+- [Jai Kumar Dewani](https://github.com/jai-dewani)
+- [Utkarsh Raj Singh](https://github.com/utkarsh-raj)
